@@ -1,15 +1,15 @@
-### Olá, eu sou o Leonardo! 👋
+### Hello, I'm Leonardo! 👋
 
-**Engenheiro Civil & Coordenador BIM** com foco em automação de processos, desenvolvimento de ferramentas personalizadas e otimização de fluxos de modelagem e compatibilização na indústria AEC. 
+**Civil Engineer & BIM Coordinator** 🏗️ focused on process automation, custom tool development, and optimizing modeling and coordination workflows within the AEC industry.
 
-Atualmente focado em criar soluções via C# (.NET) para o ecossistema Autodesk (Revit e Navisworks), unindo rigor técnico de engenharia a boas práticas de desenvolvimento de software.
+Currently focused on building C# (.NET) solutions for the Autodesk ecosystem (Revit and Navisworks), bridging strict engineering rigor with software development best practices.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Linguagens & Core -->
+  <!-- Languages & Core -->
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -21,7 +21,7 @@ Atualmente focado em criar soluções via C# (.NET) para o ecossistema Autodesk 
   <img src="https://img.shields.io/badge/ACC-%23E01A22.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Construction Cloud" />
   <img src="https://img.shields.io/badge/AutoCAD-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
 
-  <!-- Dados & Infra -->
+  <!-- Data & Infra -->
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -30,28 +30,13 @@ Atualmente focado em criar soluções via C# (.NET) para o ecossistema Autodesk 
 
 ---
 
-### 🚀 O que venho desenvolvendo
-* **Automação BIM:** Criação de add-ins em C# para o Revit e Navisworks focados em auditoria de parâmetros, controle de qualidade de modelos e eficiência de coordenação.
-* **Gestão de CDE & Dados:** Integração de fluxos de dados de projetos de infraestrutura utilizando Power BI e APIs da Autodesk Construction Cloud.
+### 🚀 What I've Been Building
+* **BIM Automation:** Developing C# add-ins for Revit and Navisworks focused on parameter auditing, model quality control, and coordination efficiency.
+* **CDE & Data Management:** Integrating data workflows for infrastructure projects using Power BI and Autodesk Construction Cloud APIs.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoSchneider-LPC&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
-
-<!--
-**LeoSchneider-LPC/LeoSchneider-LPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
