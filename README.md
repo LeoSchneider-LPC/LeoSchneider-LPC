@@ -38,5 +38,5 @@ Currently focused on building C# (.NET) solutions for the Autodesk ecosystem (Re
 
 ### 📊 GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoSchneider-LPC&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoSchneiderBIM&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1" />
 </p>
